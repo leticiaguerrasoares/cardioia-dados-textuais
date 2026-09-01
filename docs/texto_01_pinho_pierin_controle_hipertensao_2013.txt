@@ -1,0 +1,102 @@
+================================================================================
+CardioIA — Fase 1 (Dados Textuais / NLP)
+Texto 04 — Artigo científico contemporâneo em português (acesso aberto)
+================================================================================
+Título:   O controle da hipertensão arterial em publicações brasileiras
+Autoras:  Natália de Alencar Pinho; Angela Maria Geraldo Pierin
+Vínculo:  Universidade de São Paulo, Escola de Enfermagem, São Paulo, SP - Brasil
+Fonte:    Arquivos Brasileiros de Cardiologia (Arq. Bras. Cardiol.), v.101, n.3,
+          set. 2013. Atualização Clínica.
+DOI:      https://doi.org/10.5935/abc.20130173
+URL:      https://www.scielo.br/j/abc/a/Y8qr8Z3MkvGrRKWsQZ4dQLP/?lang=pt
+Licença:  Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          Texto reproduzido na íntegra para fins acadêmicos e não comerciais,
+          com atribuição, conforme os termos da licença.
+Coletado: 31/08/2026 (Projeto CardioIA — Fase 1 "Batimentos de Dados").
+================================================================================
+
+
+O controle da hipertensão arterial em publicações brasileiras
+
+Natália de Alencar Pinho; Angela Maria Geraldo Pierin
+Universidade de São Paulo, Escola de Enfermagem, São Paulo, SP - Brasil
+
+
+RESUMO
+
+A hipertensão arterial é um importante problema de saúde pública em virtude de sua alta prevalência e de suas complicações cardiovasculares. O tratamento da hipertensão tem como objetivo a redução da morbimortalidade cardiovascular e a meta de controle é de níveis inferiores a 140/90 mmHg. Considera-se que o controle da hipertensão no Brasil seja baixo, e índices de abrangência nacional são desconhecidos. O objetivo dessa revisão foi descrever o panorama do controle da hipertensão arterial no Brasil com base nas publicações existentes em uma base de dados. Foram identificadas 45 publicações. Nos estudos de base populacional, o índice mais elevado de controle (57,6%) foi de um estudo multicêntrico em 100 municípios e na cidade de São José do Rio Preto (52,4%), SP, e os menores percentuais, em torno de 10%, foram identificados em microrregiões do Rio Grande do Sul e no município de Tubarão, SC. Concluiu-se que os estudos analisados apontaram para uma ampla variação nas taxas de controle da hipertensão. Cabe destacar que a comparação entre os estudos foi um grande fator limitante em função dos diferentes métodos adotados.
+
+Palavras-chave: Hipertensão / complicações; Revisão; Hipertensão / prevenção & controle; Adesão ao Tratamento.
+
+
+ABSTRACT
+
+Hypertension is a major public health problem due to its high prevalence and cardiovascular complications. Its treatment is aimed at reducing cardiovascular morbidity and mortality, its goal being to maintain blood pressure levels below 140/90 mm Hg. Hypertension control in Brazil is low, and nationwide rates are unknown. The objective of this review was to provide an overview on hypertension control in Brazil from publications in a database. We identified 45 publications. In population-based studies, the highest control rate (57.6%) was reported in a multicenter study in 100 municipalities and the city of São José do Rio Preto, São Paulo state (52.4%), while the lowest rates (around 10%) were identified in microregions of the Rio Grande do Sul state and in the city of Tubarão, Santa Catarina state. In conclusion, the studies assessed showed a wide variation in hypertension control rates. It is worth noting that the comparison between studies was a major limiting factor, because of the different methods used.
+
+Keywords: Hypertension; Review; Hypertension; Medication Adherence.
+
+
+INTRODUÇÃO
+
+A hipertensão arterial é um importante problema de saúde pública em virtude de sua alta prevalência e de suas complicações cardiovasculares. Estudos epidemiológicos brasileiros apontam valores de prevalência que variam entre 19,2% a 44,4%. De forma geral, estima-se que mais de 30% dos brasileiros apresentem hipertensão arterial, a exemplo da população mundial. Em 2010, as doenças cardiovasculares corresponderam a 30,6 e 13,4% do total de óbitos e internações de adultos com idade igual ou superior a 20 anos, respectivamente. O tratamento da hipertensão arterial tem como objetivo a redução da morbimortalidade cardiovascular, e a meta de controle proposta pelas VI Diretrizes Brasileiras de Hipertensão Arterial é de níveis pressóricos inferiores a 140/90 mmHg para a pressão sistólica e diastólica, respectivamente. Reduções mais severas podem ser almejadas segundo o perfil de risco cardiovascular.
+
+O conhecimento dos níveis de controle da hipertensão arterial é de grande relevância no planejamento dos recursos terapêuticos e na avaliação do alcance e da efetividade das medidas adotadas. Embora se creia que o controle da hipertensão arterial no Brasil seja baixo, índices de abrangência nacional são desconhecidos. O objetivo desta revisão sistemática de literatura foi descrever o panorama do controle da hipertensão arterial no Brasil com base nas publicações existentes em um banco de dados nacional, de acesso livre, contendo textos originais na íntegra.
+
+
+MÉTODO
+
+Trata-se de um estudo bibliográfico, de revisão sistemática de literatura, acerca do controle da hipertensão arterial no Brasil. Com o objetivo primário de constituir um banco de dados de artigos sobre hipertensão arterial, foi realizado, em outubro de 2012, um levantamento bibliográfico das publicações de periódicos indexados na Biblioteca Científica Eletrônica Online (SciELO). A escolha se deve ao fato de que o SciELO "abrange uma coleção selecionada de periódicos científicos brasileiros". Os termos utilizados para a busca foram "hipertensão/hypertension" e "pressão arterial/blood pressure" nos campos de busca "assunto" e "palavras do título", sem restrição de período ou de idioma, resultando em 1.431 publicações.
+
+Para o presente estudo, foram selecionados os artigos que os resultados apresentaram dados sobre o controle da hipertensão arterial no Brasil e de desenho transversal. Nos casos de artigos elaborados com base em estudo de uma mesma coorte, a publicação mais antiga foi selecionada (n = 3). Os artigos selecionados (n = 45) foram caracterizados quanto o ano de publicação, local de realização do estudo, assunto da revista, população estudada, avaliação da pressão arterial e resultados de controle da hipertensão arterial encontrados. A apresentação das frequências de controle foi realizada da seguinte forma: porcentagem de hipertensos controlados descrita nos artigos (n = 37), ou com base na subtração da porcentagem de hipertensos não controlados do número cem, descrita no artigo (100 - % não controle, n = 8). As publicações foram agrupadas em estudos de base populacional (n = 13); local de realização, na assistência primária ou secundária (n = 15); com populações específicas (n = 12) e estudos com intervenções (n = 5).
+
+
+RESULTADOS
+
+Observou-se um aumento do número de publicações sobre controle da hipertensão arterial a partir de 2001 (13,3%, no período de 1988 a 2000, versus 86,7%, de 2001 a 2012). Quanto aos periódicos em que foram publicados os artigos, houve um predomínio das revistas médicas. A revista com temática de cardiologia foi a mais frequente (40,0%) seguida pela de saúde pública (28,9%). As revistas de enfermagem contribuíram com 13,3% e houve apenas uma publicação em um periódico de farmácia. A região sudeste correspondeu a 57,8% dos locais de realização dos estudos, seguida pelas regiões sul (20%), nordeste (11,1%) e centro-oeste (6,7%). Dois estudos foram realizados em múltiplos centros nas cinco regiões do país e nenhum foi realizado exclusivamente na região norte. O estado de São Paulo representou 40% dos locais de estudo.
+
+A medida da pressão arterial foi utilizada na avaliação do controle da hipertensão em 32 estudos (72,7%). Os demais utilizaram o registro da pressão arterial de prontuário (22,7%), um estudo utilizou o autorrelato da pressão arterial mediante contato telefônico e outro não informou o método de avaliação da pressão arterial. A medida de consultório foi realizada por 32 estudos. Dois dentre eles também efetuaram a monitorização ambulatorial da pressão arterial (MAPA) e um estudo a monitorização residencial da pressão arterial (MRPA) juntamente com a medida de consultório. Entre os estudos que efetuaram a medida da pressão arterial de consultório, um terço utilizou aparelhos de coluna de mercúrio para a aferição da pressão arterial de consultório. Os aparelhos com técnica oscilométrica foram empregados por nove estudos e sete citaram que o equipamento era validado. Oito estudos utilizaram aparelhos aneroides, e a calibração do manômetro foi relatada por seis. Cinco artigos não descreveram o equipamento de medida de pressão arterial. A realização de duas e três medidas por indivíduo predominou nos estudos avaliados (42,4 e 30,3% dos estudos, respectivamente).
+
+As recomendações mais adotadas para a medida de consultório foram aquelas provenientes das Diretrizes Brasileiras de Hipertensão, 33,3% dos artigos, seguidas pelas do VI Joint National Committee 21,2% dos artigos. Um estudo citou as recomendações da Organização Mundial da Saúde, outro, as da American Heart Association, e treze não mencionaram quais diretrizes foram seguidas para a medida da pressão arterial. O treinamento da pessoa que realizou a medida da pressão arterial foi relatado por 57,6% dos estudos, enquanto a adequação do manguito à circunferência braquial foi mencionada por apenas 39,4%.
+
+Nos estudos de base populacional observa-se a adoção de valores distintos para o controle da pressão arterial. Somente nas publicações a partir de 2001 considerou-se valores inferiores a 140/90 mmHg para as pressões sistólica e diastólica, respectivamente. Nessas publicações os índices mais elevados de controle foram do estudo multicêntrico em 100 municípios (57,6%) e na cidade de São José do Rio Preto, SP (52,4%). Já os menores percentuais, em torno de 10%, foram identificados em microrregiões do Rio Grande do Sul e município de Tubarão, SC. A maior parte destes artigos avaliaram o controle da hipertensão arterial entre hipertensos sob tratamento anti-hipertensivo, obtendo valores de 10,1 a 52,4%. O controle da hipertensão arterial entre os indivíduos que tinham conhecimento de sua condição de hipertenso variou de 31,3 a 57,6%. Dois artigos avaliaram o controle da hipertensão arterial sobre o total de hipertensos identificados na amostra e obtiveram frequências de 10,4 e 24,2%. Klein e cols., por sua vez, descreveram o valor de controle da hipertensão arterial em relação ao total da população estudada (hipertensos e não-hipertensos): 8,8%, o equivalente a cerca de 60% dos hipertensos tratados.
+
+Nos hipertensos assistidos pelo Programa de Saúde da Família, as frequências de controle da hipertensão arterial variaram de 20,0 a 30,7%, e de 30,0 a 53,9% entre aqueles em seguimento em unidades básicas de saúde. O controle da hipertensão arterial entre hipertensos na assistência secundária foi aferido por 24,4% dos estudos, sendo dez realizados em ambulatórios de hipertensão, e um em ambulatório de clínica médica. A menor taxa de controle foi identificada na cidade de Peruíbe, SP, porém, quando a avaliação da pressão arterial foi feita pela medida residencial, houve incremento significativo no controle (9,9% versus 23,9%). Os maiores níveis de controle nos hipertensos da atenção primária foram em Porto Alegre (53,9%) e na cidade de São Paulo (45,5%).
+
+Estudos com hipertensos em situações especiais como os diabéticos e idosos mostram que, entre os hipertensos diabéticos, o controle segundo o corte de 140/90 mmHg correspondeu a cerca do dobro do controle adotando-se reduções da pressão arterial mais severas recomendadas para essa população. Nos estudos com idosos, as frequências de controle variaram de 27% a 44,6%, chegando a 80% quando a avaliação da pressão foi efetuada pela monitorização ambulatorial da pressão arterial. Dois estudos avaliaram o controle da hipertensão arterial de trabalhadores da saúde. Na cidade Salvador, BA, identificou-se uma frequência de 30,6% de controle da hipertensão entre profissionais de enfermagem que faziam tratamento para a hipertensão arterial, enquanto em um hospital universitário na cidade de São Paulo, SP, o controle foi de 49% entre profissionais de diversas categorias (médicos, enfermagem e administrativo) que sabiam ser hipertensos. Frequências de controle mais elevadas foram encontradas na avaliação de hipertensos no contexto de assistência farmacêutica (65,7%) e de assistência social (67,3%).
+
+Cinco estudos observacionais avaliaram o controle da hipertensão após uma intervenção, e os resultados indicaram melhora do controle da hipertensão após aprimoramento do tratamento anti-hipertensivo e adoção de estratégias de saúde pública. Os resultados dos estudos comparativos indicam uma melhora do controle da hipertensão arterial com o início ou o aprimoramento do tratamento à doença, inclusive pela adoção de estratégias de saúde pública preconizadas pelo Sistema Único de Saúde. Por outro lado, um estudo identificou diminuição da frequência de controle após o encerramento de uma intervenção por contato telefônico em um grupo de hipertensos atendidos em ambulatório de hipertensão.
+
+
+DISCUSSÃO
+
+Os estudos avaliados evidenciaram que os índices de controle da hipertensão arterial em nosso meio apresentaram-se de forma bastante distinta. O controle da hipertensão arterial é resultado de um sistema complexo que envolve aspectos biológicos, socioeconômicos, culturais e de estrutura sanitária. A heterogeneidade da população brasileira torna imperativa a ampliação do conhecimento do controle da hipertensão arterial e seus determinantes nas diferentes regiões brasileiras. As publicações sobre o controle da hipertensão arterial foram na sua maioria recentes, concentradas na última década.
+
+A grande maioria dos estudos adotou valores de pressão arterial iguais ou inferiores a 140 mmHg para sistólica e 90 mmHg para diastólica para avaliar o controle da hipertensão arterial. As frequências de controle da hipertensão arterial encontradas pelos estudos analisados são muito diferentes e de difícil comparação. Tais diferenças podem ser justificadas por diversos fatores: contexto do estudo, populacional, assistência à saúde, técnicas de amostragem, métodos de avaliação da pressão arterial e características intrínsecas à população estudada.
+
+É inegável o fato de que o controle da hipertensão arterial de um modo geral apresenta-se pouco satisfatório. Uma provável explicação estaria ligada à redução insuficiente dos níveis da pressão arterial pela proposta de tratamento pouco eficaz. Outra possibilidade para o controle insatisfatório dos níveis tensionais relaciona-se com a pouca ou falta de adesão ao tratamento. Os dados de baixo controle da hipertensão, aliados a outras observações decorrentes da prática dos profissionais da área da saúde, reforçam a hipótese de que o diagnóstico da hipertensão arterial é fácil, bem como a orientação do tratamento, mas, apesar da eficácia das medidas terapêuticas existentes, o controle não é uma tarefa fácil, tendo em vista que, na maioria das vezes, o tratamento é para toda a vida.
+
+Adesão é um processo comportamental complexo. O desafio da adesão ao tratamento é tarefa que exige o envolvimento e a participação dos pacientes e dos profissionais da saúde. Para que se possa atingir e manter os níveis tensionais controlados, o doente frequentemente requer estímulo constante para as mudanças do estilo de vida e ajuste à medicação. Os pacientes hipertensos devem ser observados em intervalos regulares, tendo como principal objetivo obter o controle dos níveis de pressão arterial, assim como a sua manutenção em longo prazo.
+
+A não adesão ao tratamento pode atingir índices elevados de abandono, considerado o grau máximo de falta de adesão, representando grande desafio para os profissionais de saúde. Vários são os fatores que interferem no processo de adesão ao tratamento. As variáveis biossociais como idade, sexo, raça, escolaridade, nível socioeconômico, ocupação, estado civil, religião, hábitos de vida, aspectos culturais e crenças de saúde devem ser considerados. Estudo de coorte realizado na cidade de Porto Alegre mostrou que o abandono ao tratamento anti-hipertensivo se associou com tabagismo, escolaridade inferior ou igual a 5 anos e menos de 5 anos de doença.
+
+Mudanças de hábitos e estilos de vida, bem como aspectos culturais, também podem influenciar a adesão ao tratamento e requerem determinação por parte do paciente e equipe. O conhecimento sobre a doença e tratamento é outro fator a ser considerado. Estudos mostraram que, de modo geral, os hipertensos possuem a informação sobre sua problemática de saúde, porém não estão devidamente controlados. A discrepância entre ter informação a respeito da doença e tratamento, e conseguir controlar a pressão arterial aponta para a diferença essencial entre conhecimento e adesão. Enquanto o conhecimento é racional, a adesão é um processo complexo, envolvendo fatores emocionais e barreiras concretas, de ordem prática e logística.
+
+O controle da hipertensão arterial depende da sua detecção, da estrutura e acesso aos serviços de saúde e da adesão ao tratamento. Para o controle da pressão arterial, a adesão ao tratamento é imprescindível. Além de frustrar os profissionais de saúde, já que os impede de alcançar os objetivos traçados na atenção à saúde do hipertenso, a não adesão traz consigo um impacto social negativo, pois afeta, em proporções elevadas, pessoas em idade economicamente produtiva.
+
+
+CONCLUSÃO
+
+Os estudos analisados apontaram para uma ampla variação nas frequências das taxas de controle. Cabe destacar que a comparação entre os estudos foi um grande fator limitante em função dos diferentes métodos adotados. Porém, mesmo considerando os valores mais otimistas, cerca de 50% dos hipertensos tratados estariam expostos às complicações da doença pelo descontrole dos níveis pressóricos. Esse quadro é ainda mais alarmante para os hipertensos com risco cardiovascular adicional. Estudos populacionais de nível nacional, com critérios de avaliação, de acordo com as recomendações vigentes, são necessários para um melhor planejamento da assistência às pessoas com hipertensão arterial e consequente diminuição da morbimortalidade cardiovascular.
+
+
+--------------------------------------------------------------------------------
+Referência para citação (ABNT):
+PINHO, N. A.; PIERIN, A. M. G. O controle da hipertensão arterial em publicações
+brasileiras. Arquivos Brasileiros de Cardiologia, v. 101, n. 3, p. 65-73, set. 2013.
+DOI: 10.5935/abc.20130173.
+
+Licença: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+Fonte: SciELO — https://www.scielo.br/j/abc/a/Y8qr8Z3MkvGrRKWsQZ4dQLP/?lang=pt
+Observação: trecho de referências bibliográficas do artigo original omitido neste
+arquivo por concisão; a lista completa está disponível na URL da fonte.
+--------------------------------------------------------------------------------

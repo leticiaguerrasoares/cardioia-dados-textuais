@@ -1,0 +1,107 @@
+================================================================================
+CardioIA — Fase 1 (Dados Textuais / NLP)
+Texto 03 — Artigo de atualização clínica (acesso aberto)
+================================================================================
+Título:   Insuficiência Cardíaca
+Autoria:  Antonio Carlos Pereira Barretto; José Antonio Franchini Ramires
+Vínculo:  Instituto do Coração (InCor) — HC-FMUSP, São Paulo, SP - Brasil
+Fonte:    SciELO / Arquivos Brasileiros de Cardiologia, v.71, n.4, out. 1998
+DOI:      https://doi.org/10.1590/S0066-782X1998001000014
+URL:      https://www.scielo.br/j/abc/a/VCQkdfNs5QNyTYhp8WdnMdN/?lang=pt
+Licença:  Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          Texto reproduzido para fins acadêmicos e não comerciais, com atribuição.
+Coletado: 01/09/2026 (Projeto CardioIA — Fase 1 "Batimentos de Dados").
+Observação: lista de referências bibliográficas do artigo original omitida por
+concisão; disponível na íntegra na URL da fonte.
+================================================================================
+
+
+Insuficiência Cardíaca
+
+Antonio Carlos Pereira Barretto, José Antonio Franchini Ramires
+São Paulo, SP
+
+Os conhecimentos sobre insuficiência cardíaca (IC) aumentaram muito nos últimos anos, conhecemos melhor sua fisiopatologia, sua história natural, temos novas opções terapêuticas que permitem modificar sua evolução.
+
+Hoje, apesar do grande desenvolvimento tecnológico e maiores recursos farmacológicos, a incidência de IC vem aumentando. Este aumento, em parte, decorre do envelhecimento da população, pois nos mais idosos a IC é mais freqüente. De outra parte podemos considerar que, uma vez que se morre menos em decorrência da cardiopatia de base, convive-se mais com as doenças, sendo a fase final comum das doenças cardiológicas, a IC, o que a torna mais freqüente.
+
+A IC continua sendo uma síndrome de características malignas, com alta mortalidade nas formas avançadas. Vários estudos mostraram que atinge a 50% em um ano, em pacientes na classe funcional (CF) IV da New York Heart Association e torna-se maior naqueles que necessitam suporte inotrópico para sua compensação. Por outro lado, pacientes pouco sintomáticos têm boa evolução, mesmo que apresentem fração de ejeção (FE) bastante reduzida.
+
+Esta história natural pode ser modificada com a correção da cardiopatia, controle dos fatores de agravamento da IC ou através de algumas medicações, mas também, pode se tornar mais grave por outras drogas. Procuraremos rever neste artigo alguns destes aspectos.
+
+História natural
+
+A IC é uma afecção muito limitante. Análise da qualidade de vida, por meio de questionários, em diferentes doenças, identificou a IC como uma das mais limitantes, mais que diabetes, doença pulmonar obstrutiva crônica, etc. Dispnéia, cansaço, edema provocam muito desconforto aos seus portadores e explicam este achado.
+
+Como já referido ao lado de ser doença limitante, seus portadores podem apresentar alta mortalidade. Análise dos resultados dos estudos CONSENSUS, SOLVD tratamento e SOLVD prevenção, que estudaram respectivamente pacientes em CF III/IV, II/III e I demonstra, que quanto pior a CF menor o tempo de sobrevida. Conforme mencionado, em pacientes muito sintomáticos, a expectativa de vida é muito pequena. Por outro lado, a terapêutica com inibidores da enzima conversora da angiotensina (ECA) pode modificar esta história.
+
+Entretanto, é importante ressaltar, que em suas formas iniciais esta evolução não é tão ruim, fato que deve ser considerado no momento de tomada de decisão mais agressiva. Já salientamos que a doença apresenta alta mortalidade nas formas avançadas. Se os pacientes se tornam pouco sintomáticos ou são assintomáticos, apesar de apresentarem, às vezes sinais de intenso comprometimento cardíaco (exemplo: FE<25%), são muitas as evidências de que sua evolução possa ser boa, apesar do comprometimento cardíaco.
+
+Dados dos estudos SOLVD prevenção e SAVE demonstram esta afirmação. Esses estudos demonstraram que disfunção ventricular é achado mais freqüente do que pensávamos. Neles foi possível identificar mais de 6000 pacientes assintomáticos e com FE <40%. A análise da evolução dos grupos placebos desses estudos permitiu conhecer a história natural da forma inicial de manifestação clínica de IC. Desses pacientes cerca de 35% vieram apresentar IC manifesta em quatro anos, demonstrando que nem todos portadores de disfunção ventricular apresentarão limitação física significativa. Por outro lado a alta mortalidade, descrita nas formas avançadas, não é de todo observada nos assintomáticos, mesmo que com importante disfunção ventricular. Os dados destes dois estudos mostram que a mortalidade em quatro anos será inferior a 25%.
+
+Assim não se pode, no momento de equacionar a melhor terapêutica, fazer analogias com as formas mais avançadas. Assim, propostas como transplante ou ventriculectomia parcial não estão indicadas nos pacientes assintomáticos, pois seu risco, nesta fase da doença, é maior que o observado na história natural.
+
+Entre os pacientes sintomáticos a evolução não é igual em todos os casos. Quanto mais sintomático pior a evolução. Podemos também estratificar os pacientes com base em vários dados clínicos ou laboratoriais. Assim têm melhor evolução aqueles com maior capacidade física, analisada pelo tempo de esforço ao teste ergométrico, ou pela maior distância percorrida no teste de 6min, ou com maior consumo de oxigênio pela ergoespirometria. Dados de função cardíaca também identificam pacientes de pior prognóstico. Menor débito cardíaco, maior pressão de capilar pulmonar, maior resistência periférica, menor FE, são sinônimos de maior mortalidade. Dados sobre anatomia também são úteis nesta estratificação, pois cardiomegalia, diâmetros ventriculares e atriais maiores identificam grupos de maior risco.
+
+O conhecimento da evolução dos portadores de IC e sua estratificação são fundamentais no momento da escolha da melhor forma de tratamento.
+
+Fisiopatologia
+
+Hoje, sabemos que é possível modificar a história natural da IC, quer pela terapêutica medicamentosa, quer pela cirúrgica. A compreensão da sua fisiopatologia permite entender o porquê das muitas alterações observadas nos pacientes, auxiliando sua orientação.
+
+Quando ocorre queda da função cardíaca, mecanismos adaptativos são estimulados procurando corrigir a disfunção ventricular. Nos pequenos danos miocárdicos estes conseguem melhorar a função e, muitas vezes, normalizá-la. Nos comprometimentos maiores estes mecanismos são insuficientes e muitas vezes a sua contínua estimulação pode provocar um círculo vicioso que pode levar a futura deterioração da função cardíaca.
+
+O mecanismo de Frank-Starling é usualmente um dos primeiros a ser estimulado e melhora a função cardíaca. Nas lesões maiores não é suficiente e a continua dilatação cardíaca dela advinda se torna um mecanismo desadaptativo. Vários estudos mostram que a continua dilatação (remodelação ventricular), é deletéria e que quanto maior a dilatação ventricular pior o prognóstico do paciente.
+
+A estimulação simpática e a neuro-humoral também podem ser adaptativas no início dos quadros, mas a sua perpetuação ou maior intensidade de estimulação é deletéria para o coração.
+
+Análise dos dados dos grandes estudos multicêntricos em IC permitiram compreender melhor a estimulação neuro-humoral e como ocorre esta estimulação. Na fase inicial aumentam principalmente os neuro-hormônios com efeito vasodilatador, como o fator atrial natriurético, que induz vasodilatação arterial e conseqüente melhora da função cardíaca. Nos casos de dano cardíaco de pequena monta, esta estimulação é suficiente para normalização da função cardíaca. Nos danos mais extensos a maior estimulação neuro-humoral se faz com predomínio dos neuro-hormônios com efeito vasoconstritor, que induzem aumento da resistência e piora da função cardíaca, levando o coração para um círculo vicioso de agravamento progressivo. De há muito documentou-se que nas formas avançadas, quanto maior os níveis de noradrenalina, adrenalina, renina, arginina-vasopressina, pior a evolução e maior a mortalidade. Hoje sabemos que alguns medicamentos, mas não todos, podem melhorar a história natural da IC. Drogas que modulem esta estimulação neuro-humoral aumentada são aquelas que influenciam positivamente a evolução da doença.
+
+A hipertrofia miocárdica é outro mecanismo adaptativo importante para a compensação do coração. Entretanto, quando imaginamos a hipertrofia, o fazemos considerando que esta ocorreria por aumento de miócitos e conseqüente melhora do desempenho cardíaco. Mas na IC, a hipertrofia ocorre por aumento dos níveis de neuro-hormônios, estímulo este que além da hipertrofia de miócitos induz proliferação do interstício, provoca um aumento da fibrose, acarretando efeitos deletérios ao coração.
+
+Recentemente, novas alterações estão sendo descritas nos portadores de IC e que podem influenciar sua evolução. Observou-se aumento nos níveis de eritropoetina em relação ao agravamento da CF, podendo esse achado ser responsável pela elevação do hematócrito nos casos mais avançados de IC. Outra alteração referida é a elevação de citoquinas, com o achado de níveis maiores do fator de necrose tumoral, de interleucina-6 e de endotelinas nas formas mais avançadas da doença. Estas alterações poderão resultar na caquexia, apresentada nos casos mais graves de IC, no entanto, alguns medicamentos como os inibidores da ECA, a amiodarona, o vesnarinone e o bosentan podem modular estas elevações e interferir na evolução da síndrome. Finalmente, ressaltamos a resistência à insulina naqueles com formas mais avançadas de IC.
+
+Assim, a IC é uma situação clínica complexa, com múltiplos fatores influenciando sua evolução. A intervenção em alguns pacientes, embora possa melhorá-los, não leva ao controle total da doença.
+
+Tratamento clínico
+
+O tratamento da IC vem sofrendo modificações através dos anos. No momento, a terapêutica baseada no tripé, digital, diuréticos e inibidores da enzima conversora tem provocado as melhores respostas, com redução de manifestações clínicas, de necessidade de hospitalizações e de mortalidade. Nas formas assintomáticas previne o seu aparecimento.
+
+Digital - O papel dos digitálicos na terapêutica da IC foi objeto de análise e teve muitos dos seus aspectos recentemente esclarecidos. Quatro grandes estudos, DIMT, RADIANCE, PROVED E DIG fundamentaram o seu emprego clínico. Hoje, sabemos que nos portadores de IC sintomáticos, o digital reduz a estimulação neuro-humoral, melhora o desempenho físico, reduz hospitalizações e não aumenta sua mortalidade. Entretanto, alguns aspectos sobre o medicamento não estão totalmente esclarecidos. No estudo DIG, pacientes com arritmia apresentaram aumento da mortalidade. Esse dado sugere que a droga deva ser administrada com cuidado nesta situação e, em alguns, não deve ser prescrita.
+
+Diuréticos - Os diuréticos são medicamentos indispensáveis para a compensação dos pacientes. O seu uso, entretanto causa espécie aos médicos. Sem dúvida, os diuréticos interferem na qualidade de vida de quem o toma. Embora no paciente em anasarca ninguém questione o seu valor, assim que a dispnéia e o edema são controlados procura-se reduzir a sua administração pois o seu uso implica em mais idas ao banheiro e cerceia a sua livre locomoção. Devemos destacar seus efeitos colaterais, hipopotassemia, elevação da creatinina e ácido úrico, hipotensão, câimbras etc. Vários estudos vêm demonstrando que nas formas avançadas de IC o uso correto dos diuréticos é fundamental para manter o paciente compensado.
+
+Inibidores da enzima conversora - São hoje drogas consideradas indispensáveis no tratamento da IC, pelos benefícios demonstrados em vários estudos. A prescrição dos inibidores da ECA em pacientes sintomáticos resulta, entre outras vantagens, na redução dos sintomas, melhora na qualidade de vida e no desempenho físico, redução do número de hospitalizações, redução da mortalidade. Em alguns casos estes resultados decorrem da redução da dilatação das câmaras ventriculares e da melhora do desempenho cardíaco. Mais recentemente, constatou-se que a prescrição nos pacientes assintomáticos com disfunção ventricular pode prevenir o aparecimento dos quadros de IC. Assim, a prescrição dos inibidores da ECA deve ser feita nos vários estágios da IC, com diferentes objetivos: prevenir nas formas iniciais, abrandar a evolução e auxiliar no tratamento nas formas avançadas, inclusive reduzindo sua alta mortalidade.
+
+Antagonistas da angiotensina II - São drogas vasodilatadoras, com perfil muito semelhante aos inibidores da ECA. O tratamento com estes antagonistas modulam a estimulação neuro-humoral aumentada e reduzem as alterações hemodinâmicas características da IC, com efeitos semelhante aos inibidores da ECA. O mais prudente seria utilizar os antagonistas da angiotensina II para aqueles que não toleram os inibidores da ECA e não no lugar destes, como primeira escolha, até que tenhamos melhor documentação de seus reais benefícios.
+
+Outros vasodilatadores - Estudo empregando a associação de dinitrato de isossorbida à hidralazina foi o primeiro a salientar que a terapêutica com vasodilatadores poderia reduzir a mortalidade dos portadores de IC (estudo VHeFT). Para pacientes com formas avançadas de IC, associar vasodilatadores pode permitir uma melhor compensação.
+
+Antagonistas dos canais de cálcio - Nos pacientes com disfunção ventricular crescem evidências de que são medicamentos que podem agravar a evolução dos pacientes. Vários estudos demonstraram que nifedipina, diltiazem e verapamil agravam a situação clínica em portadores de disfunção ventricular. Assim, para pacientes com IC não deveremos prescrever estas drogas. Torna-se prudente suspender os antagonistas dos canais de cálcio sempre que identificarmos disfunção ventricular.
+
+Betabloqueadores - Controversa tem sido a indicação de betabloqueadores no tratamento de portadores de IC. Embora tenham efeitos inotrópicos negativos, vários trabalhos têm demonstrado que a sua prescrição pode induzir melhora aos pacientes. Os benefícios dos betabloqueadores são tardios, e que no início do tratamento, podem provocar instabilidade clínica, embora possam reduzir a mortalidade. Vários estudos têm demonstrado que carvedilol, bucindolol, etc., quando empregados em pacientes com IC, induzem redução da estimulação neuro-humoral, melhora clínica, e do desempenho físico, reduzem hospitalizações e a mortalidade.
+
+Inotrópicos - Devem ser evitados em pacientes compensados, pois todos os estudos de sobrevida mostram aumento da mortalidade com seu uso crônico. Os estudos demonstram também que as drogas melhoram a situação clínica dos pacientes, que ficam melhor compensados, apresentam melhor desempenho físico, necessitam menos hospitalizações. Pelo aumento de mortalidade que induzem, não devem ser administradas em pacientes compensados, mas em pacientes com IC avançada de difícil controle.
+
+Anti-arrítmicos - O seu emprego em pacientes com IC, de maneira preventiva, é assunto controverso. Não se discute o seu valor nos sintomáticos devido à arritmia, mas naqueles assintomáticos, o emprego de anti-arrítmicos, nos estudos tem mostrado resposta não uniforme.
+
+Anticoagulantes - A sua prescrição teria como objetivo reduzir fenômenos tromboembólicos nos portadores de IC. No momento não há consenso sobre a necessidade de se prescrevê-los para todos os casos de IC. Há aqueles que defendem sua prescrição nos pacientes de acentuado comprometimento ventricular e para aqueles com fibrilação atrial.
+
+Tratamento cirúrgico
+
+Não podemos nos esquecer que a correção da causa da IC modifica sobremaneira a história natural da doença. Assim, a correção da valvopatia ou a revascularização miocárdica pode ser salvadora para muitos. Para os pacientes com importante disfunção ventricular, esgotados os procedimentos clínicos, três procedimentos cirúrgicos podem ser cogitados: o transplante cardíaco, a ventriculectomia parcial e a cardiomioplastia. O transplante cardíaco dos três procedimentos é aquele com indicações mais precisas e com resultados plenamente documentados.
+
+Considerações finais
+
+Avançamos muito nos últimos anos no controle da IC. Hoje o tratamento é melhor fundamentado. Entretanto, muitos médicos ainda não utilizam corretamente os esquemas preconizados, especialmente os generalistas. Algumas revisões têm demonstrado que especialmente nos casos mais graves, equipes especializadas orientam melhor os pacientes. A otimização da terapêutica, com aumento das doses de inibidores da ECA e de diuréticos resulta em maior estabilidade dos pacientes e em menor número de descompensações. É provável que melhor medicados muitos não evoluiriam para formas avançadas.
+
+Instituto do Coração do Hospital das Clínicas — FMUSP
+
+
+--------------------------------------------------------------------------------
+Referência para citação (ABNT):
+BARRETTO, A. C. P.; RAMIRES, J. A. F. Insuficiência Cardíaca. Arquivos Brasileiros
+de Cardiologia, v. 71, n. 4, p. 635-644, out. 1998. DOI: 10.1590/S0066-782X1998001000014.
+Licença: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+Fonte: SciELO — https://www.scielo.br/j/abc/a/VCQkdfNs5QNyTYhp8WdnMdN/?lang=pt
+--------------------------------------------------------------------------------

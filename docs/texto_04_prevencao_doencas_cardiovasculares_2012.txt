@@ -1,0 +1,58 @@
+================================================================================
+CardioIA — Fase 1 (Dados Textuais / NLP)
+Texto 04 — Artigo de debate / saúde pública (acesso aberto)
+================================================================================
+Título:   Prevenção de doenças cardiovasculares e promoção da saúde
+Autoria:  Aloyzio Achutti (Sociedade Brasileira de Cardiologia)
+Fonte:    SciELO / Ciência & Saúde Coletiva, v.17, n.1, jan. 2012 (seção Debatedores)
+DOI:      https://doi.org/10.1590/S1413-81232012000100003
+URL:      https://www.scielo.br/j/csc/a/MnRMxsYBd8jmVtPLZSWVnyd/?lang=pt
+Licença:  Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          Texto reproduzido para fins acadêmicos e não comerciais, com atribuição.
+Coletado: 01/09/2026 (Projeto CardioIA — Fase 1 "Batimentos de Dados").
+Observação: lista de referências bibliográficas do artigo original omitida por
+concisão; disponível na íntegra na URL da fonte.
+================================================================================
+
+
+Prevenção de doenças cardiovasculares e promoção da saúde
+(Prevention of Cardiovascular Diseases and the Promotion of Health)
+
+Aloyzio Achutti — Sociedade Brasileira de Cardiologia
+
+Não há o que discutir sobre a oportunidade do tema tendo em vista a mobilização mundial para a reunião de alto nível das Nações Unidas, em Nova York, em setembro passado, quando será debatida a inclusão, entre os objetivos do milênio, do importante conjunto de doenças omitido na virada do século. Para esse conjunto, do qual faz parte o capítulo das enfermidades do aparelho circulatório, cogita-se num rótulo alternativo, pela insatisfação já denunciada quanto às mudanças de designações utilizadas, separadamente ou associadas: doenças crônicas, degenerativas, ou não-transmissíveis. São doenças com características comuns, frequentemente superpostas, quanto a seus fatores de risco, e determinantes.
+
+O domínio da saúde não está isento de preconceitos. Há meio século essas doenças eram consideradas como mazelas exclusivas de indivíduos ricos, até se reconhecer sua presença e importância também em populações de países que se chamavam do terceiro mundo ou em desenvolvimento, cujos problemas prioritários eram as doenças infecciosas e parasitárias, desnutrição e mortalidade infantil. Tais preconceitos não foram de todo superados, a ver pelos "objetivos do milênio", e pela submissão à literatura científica como sendo exclusividade dos mais desenvolvidos.
+
+Sem dúvida, foram importantes as contribuições científicas e aplicações tão bem analisadas no artigo, mas fica-se com a impressão que o resto do mundo ficou esperando para se espelhar naquelas experiências de sucesso.
+
+Como testemunha ocular e protagonista da caminhada conceitual e de abordagem prática que se fez a partir de 1970 - aqui e pelo mundo afora - sinto-me no dever de acrescentar algumas contribuições mesmo não podendo desenvolvê-las no formato desta discussão. Podem servir como estímulo para pesquisar além das bases de dados acessíveis pela Internet; o que me lembra as discussões que levaram a coleções como as da Bireme, construídas neste meio tempo para permitir o acesso a publicações valiosas cuja memória vai se perdendo por não estarem no fluxo central da literatura.
+
+Em nosso país, iniciou-se nos primeiros anos de 1970, no Rio Grande do Sul, um programa voltado para a prevenção de doença cardiovascular com base comunitária, o que coincidiu com o interesse da OPAS/OMS, e oportunizou a primeira reunião internacional com representantes de países sul-americanos em Porto Alegre, em 1975. Rapidamente se evoluiu para a anexação de outros problemas de saúde e seus fatores de risco, e em seguida para sua abordagem integrada.
+
+Até que o conceito de Promoção da Saúde ficasse consagrado houve um período muito produtivo de discussões, estudo, pesquisa e projetos de intervenção com participação progressiva. Foram programas com base comunitária, de serviços e, mais amplamente, de saúde pública: prevenção da cardiopatia reumática, da doença hipertensiva, do tabagismo, das doenças isquêmicas, da obesidade, do diabete melito, das doenças respiratórias crônicas, do sedentarismo e dos cânceres de pulmão e ginecológico, logo em seguida tudo foi integrado, inclusive com saúde mental. Atrás do interesse do Ministério da Saúde (MS) seguiram-se os demais Estados e países vizinhos. A pesquisa epidemiológica da pressão arterial e fatores de risco na população adulta do RS, em 1978, e a do tabagismo em escolares de 1980-1988; e em nível de OPAS, o controle da cardiopatia reumática e da hipertensão na comunidade; o Projeto MORE, nova pesquisa com base populacional sobre fatores de risco em cidades da América Latina em 1989, e outros.
+
+Isso e mais, em outras partes do mundo, confluiu para projetos mais recentes bem representados no artigo. Certamente esses passos iniciais foram decisivos na preparação do que veio depois, na disposição de uma atitude favorável à mudança, às lideranças comunitárias, às decisões políticas e na formação de uma cultura que ainda precisa muito progredir.
+
+Abordagem integrada dos problemas de saúde
+
+A primeira estratégia de abordagem dos problemas cardiológicos como objeto da Saúde Pública tentou reunir em programas específicos (Prevenção da Doença Reumática, da Doença Hipertensiva) conhecimentos adquiridos na prática de especialistas, apenas dando ênfase àqueles aspectos mais aplicáveis em serviços básicos de saúde (de menor complexidade organizacional).
+
+Na mesma linha, procurando abordar problemas de saúde cada vez mais precocemente, surge um terceiro momento de preocupação com os fatores de risco comuns a muitas doenças crônicas e também intimamente associados em nível populacional. Tenta-se aplicar experiências bem-sucedidas em países desenvolvidos, com populações mais homogêneas e com necessidades básicas mais bem atendidas em países com condições diferentes.
+
+Planejamento Estratégico
+
+O que faz com que certos planos dêem resultados e outros, aparentemente contando com todos os elementos técnicos necessários, estejam fadados à frustração? Pode-se rapidamente deduzir que o que está faltando para garantir o sucesso não se encontra facilmente no domínio das ciências médicas ou biológicas, mas esteja mais acessível no domínio das ciências políticas e sociais. Um dos aspectos importantes no planejamento deve ser o da mobilização da comunidade, não somente por causa das raízes relativamente inacessíveis dos fatores de risco, conforme já foi discutido, mas também para obter mais recursos para o setor saúde. Além disso, parece necessário reconsiderar as inseparáveis ligações entre a saúde e a dimensão social, reativando discussão antiga, porém relevante, concernente ao conceito de saúde que não se pode restringir aos limites dos serviços de assistência médica. Este tema é cada vez mais relevante na medida em que fica evidente em nossa sociedade atual a existência de forças que levam populações inteiras a se exporem, em intensidade e duração cada vez maiores, não somente a riscos com consequências de longo termo (sedentarismo, tabagismo, etc...), mas também a riscos de consequências mais ostensivas e imediatas (violência urbana, acidentes e outros).
+
+O mesmo movimento que leva a considerar não somente um órgão doente, mas todo o ser humano, deve levar também a inserir os problemas das doenças cardiovasculares dentro do contexto global de saúde, num mundo onde não são as fronteiras políticas que discriminam as populações, mas as condições sociais nas quais esses mesmos grupos de seres humanos estão situados, isto é, entre os privilegiados ou entre os socialmente oprimidos, independentemente de longitude, latitude, país, estado ou bairro onde vivam.
+
+Ao participar de encontros ditos de promoção de saúde cardiovascular, nunca me convenci de que fosse possível pensar na promoção da saúde de um órgão, ou focada somente num sistema. Saltando de antes para agora, na esteira da promoção da saúde, chegamos à saúde urbana, na qual os indivíduos que compõe a população estão irremediavelmente inseridos no contexto onde nascem, vivem, trabalham e morrem; presos às estruturas físicas e às relações de poder, em contínua construção e modelagem, resultando em desigualdades que sonhamos em reduzir.
+
+
+--------------------------------------------------------------------------------
+Referência para citação (ABNT):
+ACHUTTI, A. Prevenção de doenças cardiovasculares e promoção da saúde. Ciência &
+Saúde Coletiva, v. 17, n. 1, p. 9-11, jan. 2012. DOI: 10.1590/S1413-81232012000100003.
+Licença: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+Fonte: SciELO — https://www.scielo.br/j/csc/a/MnRMxsYBd8jmVtPLZSWVnyd/?lang=pt
+--------------------------------------------------------------------------------
